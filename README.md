@@ -18,7 +18,7 @@ Our neurophysiological analysis mapped directly to the behavioral Subsequent Mem
 1. **Robust Memory Encoding Divergence:** Hippocampal leads demonstrated a significantly higher Theta PLV (~7 Hz) directly tracking trials that were successfully **'Remembered'** over those that were **'Forgotten'**. Memory is demonstrably phase-dependent.
 2. **Cholinergic Attenuation (Nicotine Hypothesis):** As proposed by Biba et al., exogenous manipulations of the endogenous cholinergic system (e.g., chronic nicotine desensitization) theoretically restrict the amplitude bounds of the theta phase reset. 
 
-![Phase Locking and Cholinergic Attenuation Results](figures/upenn ram figures.png)
+![Phase Locking and Cholinergic Attenuation Results](figures/upenn_ram_figures.png)
 ### Summary of Metrics
 * **Theta Center Frequency:** $7.0$ Hz (matches ant/post bounds)
 * **SME Effect Size Constraints:** Cohen's $d \approx 0.40$
