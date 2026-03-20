@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs & Data
+*.log
+logs/
+data/raw/
+data/processed/
+err*.txt
+pytest_output.txt
+
+# OS generated
+.DS_Store
+Thumbs.db
